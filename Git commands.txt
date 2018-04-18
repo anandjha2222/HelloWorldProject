@@ -10,4 +10,5 @@ create a new repository on your remote git account
 copy the https path from remote
 
 git remote add origin https://github.com/anandjha2222/HelloWorldProject.git
-git push -u origin master
+or git remote add MyGithubRepo https://github.com/anandjha2222/HelloWorldProject.git
+git push -u origin/MyGithubRepo master

@@ -8,6 +8,7 @@ class HelloWorld
 			
 			System.out.println("Hello...."+i);
 		}
+		System.out.println("Git Integration Test...")
 	}
 	
 }
