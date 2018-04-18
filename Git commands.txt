@@ -1,0 +1,13 @@
+write a java program
+compile it
+open git bash here
+
+git status 
+git add .
+git commit -m "adding HelloWorldApp"
+
+create a new repository on your remote git account
+copy the https path from remote
+
+git remote add origin https://github.com/anandjha2222/HelloWorldProject.git
+git push -u origin master
